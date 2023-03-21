@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/16/trunk/gtk/lib/gtk-2.0/2.10.0/engines
+END
+libwimp.dll
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/16/trunk/gtk/lib/gtk-2.0/2.10.0/engines/libwimp.dll
+END
+libpixmap.dll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/16/trunk/gtk/lib/gtk-2.0/2.10.0/engines/libpixmap.dll
+END

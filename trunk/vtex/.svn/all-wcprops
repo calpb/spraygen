@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/37/trunk/vtex
+END
+vtex_dll.dll
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/37/trunk/vtex/vtex_dll.dll
+END
+cssGameInfo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/24/trunk/vtex/cssGameInfo.txt
+END
+tier0.dll
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/37/trunk/vtex/tier0.dll
+END
+tier0_s.dll
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/37/trunk/vtex/tier0_s.dll
+END
+tf2gameinfo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/24/trunk/vtex/tf2gameinfo.txt
+END
+vtex.dll
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/5/trunk/vtex/vtex.dll
+END
+vstdlib.dll
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/37/trunk/vtex/vstdlib.dll
+END
+Steam.dll
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/35/trunk/vtex/Steam.dll
+END
+vstdlib_s.dll
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/37/trunk/vtex/vstdlib_s.dll
+END
+gameinfo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/33/trunk/vtex/gameinfo.txt
+END
+ClientRegistry.blob
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/29/trunk/vtex/ClientRegistry.blob
+END
+vtex.exe
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/5/trunk/vtex/vtex.exe
+END
+l4dgameinfo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/24/trunk/vtex/l4dgameinfo.txt
+END
+l4d2gameinfo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/24/trunk/vtex/l4d2gameinfo.txt
+END
